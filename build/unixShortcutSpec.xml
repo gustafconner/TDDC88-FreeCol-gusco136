@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- Specifies the shortcuts to be created by an installer on a UNIX system. -->
+<!-- Specifies the shortc uts  to be created by an installer on a UNIX system. -->
+
 
 <shortcuts>
     <skipIfNotSupported/>
